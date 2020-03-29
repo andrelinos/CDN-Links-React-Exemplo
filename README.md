@@ -37,3 +37,6 @@ ReactDOM.render(element, document.getElementById('root'));
 ## Links 
 - CDN Links [CDN Links](https://pt-br.reactjs.org/docs/cdn-links.html)
 - Babel [CDN Links](https://babeljs.io/setup#installation)
+
+# Nota
+Projeto pode ser executado usando o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do [VSCode](https://code.visualstudio.com/).
