@@ -1,9 +1,9 @@
 # Exemplo de como usar o CDN Link do React
 
 ## Links CDN usados 
-  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-  <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-  <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+ - <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+ - <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+ - <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
   
 ## Exemplo de código JAVASCRIPT 
 ```js
